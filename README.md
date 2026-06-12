@@ -2,7 +2,7 @@
 
 **Aprendiz de Transformação Digital na Unilever** | Análise e Desenvolvimento de Sistemas (Senac) | Técnica em Informática
 
-Atuo na área Digital como Jovem Aprendiz na Unilever Igarassu, com foco em inovação, automação e tecnologia. Tenho experiência prática com desenvolvimento web, lógica de programação e banco de dados, além de conhecimentos em hardware, redes e eletrônica aplicada — o que me dá uma visão mais completa de como sistemas e processos se conectam.
+Atuo na área Digital como Jovem Aprendiz na Unilever Igarassu, com foco em inovação, automação e tecnologia. Tenho experiência prática com desenvolvimento web, lógica de programação e banco de dados, além de conhecimentos em hardware, redes e eletrônica aplicada, o que me dá uma visão mais completa de como sistemas e processos se conectam.
 
 Atualmente, estou expandindo meus estudos para a área de **controle e automação industrial**, aplicando conceitos de eletrônica embarcada (Arduino) ao contexto de processos digitais.
 
