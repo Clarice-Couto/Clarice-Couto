@@ -1,4 +1,4 @@
-# Olá, eu sou a Clarice 👋
+# Olá, eu sou a Clarice 💙
 
 **Aprendiz de Transformação Digital na Unilever** | Análise e Desenvolvimento de Sistemas (Senac) | Técnica em Informática
 
@@ -8,7 +8,7 @@ Atualmente, estou expandindo meus estudos para a área de **controle e automaç�
 
 ---
 
-## 🧰 Stack & Ferramentas
+## Stack & Ferramentas
 
 **Linguagens:** Python · SQL · JavaScript · C/C++ (Arduino)
 **Web:** HTML · CSS · JavaScript
@@ -34,7 +34,7 @@ Atualmente, estou expandindo meus estudos para a área de **controle e automaç�
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/claricecouto-5335a6292](https://www.linkedin.com/in/claricecouto-5335a6292)
+- LinkedIn: [Clarice Couto](https://www.linkedin.com/in/clarice-couto-5335a6292/)
 - Email: claricecouto2007@gmail.com
 
 🇧🇷 Português (nativo) · 🇬🇧 English (Upper Intermediate)
